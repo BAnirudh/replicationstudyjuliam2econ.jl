@@ -6,8 +6,10 @@ Anirudh Bharadwaj - anirudh.bharadwaj@sciencespo.fr
 Mohammad Atif Haidry - mohammadatif.haidry@sciencespo.fr
 
 ## Navigating the codes -
-1.) Inside the src folder, there is a file called replicationstudyjuliam2econ.jl which should be used to run the codes. 
-2.) It is necessary to load packages (run line 5 to line 24).
+1.) Inside the src folder, there is a file called replicationstudyjuliam2econ.jl which should be used to run the codes.\\
+
+2.) It is necessary to load packages (run line 5 to line 24).\\
+
 3.) Next, the data needs to be loaded (line 27). (PS - Necessary changes require for the .dta file according to the location of the file). In this package, it is in the Datafile_and_paper folder.
 4.) It is necessary to run lines 32 to 35 as they create the dataframe and then copy the necessary dependent variable and rid the observations that are missing.
 5.) It is also necessary to run lines 37 to 39 to convert the type from Float32 to Float64.
