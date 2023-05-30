@@ -19,15 +19,15 @@ Mohammad Atif Haidry - mohammadatif.haidry@sciencespo.fr
 
 6.) We present the results of the main tables of the the paper. This includes Table 2, 3, and 4. 
 
-7.) Running lines 86 to 96 will give the necessary results of column 1-5 of Panel A of Table 2. Lines 98 to 100 creates this table.
+7.) Running lines 86 to 96 will give the necessary results for columns 1-5 of Panel A of Table 2. Lines 98 to 100 creates this table.
 
-8.) Running lines 103 to 112 will give the necessary results of column 1-5 of Panel B of Table 2. Lines 114 to 115 creates this table.
+8.) Running lines 103 to 112 will give the necessary results for columns 1-5 of Panel B of Table 2. Lines 114 to 115 creates this table.
 
-9.) Running lines 119 to 124 will give the necessary results of column 1-3 of Panel A of Table 3. Lines 126 to 128 creates this table.
+9.) Running lines 119 to 124 will give the necessary results for columns 1-3 of Panel A of Table 3. Lines 126 to 128 creates this table.
 
-10.) Running lines 131 to 136 will give the necessary results of column 1-3 of Panel B of Table 3. Lines 138 to 140 creates this table.
+10.) Running lines 131 to 136 will give the necessary results for columns 1-3 of Panel B of Table 3. Lines 138 to 140 creates this table.
 
-11.) Running lines 143 to 152 will give the necessary results of column 1-5 of Panel A of Table 4. Lines 154 to 156 creates this table.
+11.) Running lines 143 to 152 will give the necessary results for columns 1-5 of Panel A of Table 4. Lines 154 to 156 creates this table.
 
 12.) Running lines 159 to 168 will give the necessary results of column 1-5 of Panel B of Table 4. Lines 170 to 172 creates this table.
 
