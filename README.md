@@ -11,7 +11,7 @@ Mohammad Atif Haidry - mohammadatif.haidry@sciencespo.fr
 
 2.) It is necessary to load packages (run line 5 to line 24).
 
-3.) Next, the data needs to be loaded (line 27). (PS - Necessary changes require for the .dta file according to the location of the file). In this package, it is in the Datafile_and_paper folder.
+3.) Next, the data needs to be loaded (line 27). (PS - Necessary changes require for the .dta file according to the location of the file that is update the file paths in the script to reflect your specific file names and paths.). In this package, it is in the Datafile_and_paper folder.
 
 4.) It is necessary to run lines 32 to 35 as they create the dataframe and then copy the necessary dependent variable and rid the observations that are missing.
 
